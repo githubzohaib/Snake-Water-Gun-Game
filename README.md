@@ -1,4 +1,4 @@
-# 🎮 Snake Water Gun Game - Day 56 of #UltimatePythonCourse:
+# 🎮 Snake Water Gun Game - Day 56 of TheUltimatePythonCourse:
 
 I had the opportunity to develop a Snake Water Gun game as part of my Python learning journey on the 56th day of the course. Here's a brief breakdown of the rules I followed:
 
